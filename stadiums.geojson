@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.9346,51.6427]
+        },
+          "properties": {
+            "name": "Principality Stadium"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.1825,51.47806]
+        },
+          "properties": { 
+            "name": "Liberty Stadium"
+          }
+      }
+    ]
+}

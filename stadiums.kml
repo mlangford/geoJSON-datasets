@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <name>Principality Stadium</name>
+  <description>The National Welsh Stadium</description>
+  <Point>
+    <coordinates>-3.1825,51.47806,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>Liberty Stadium</name>
+  <description>The Swansea City Stadium</description>
+  <Point>
+    <coordinates>-3.9346,51.6427,0</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
